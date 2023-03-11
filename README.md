@@ -95,7 +95,7 @@
 重复校验效果：
 ![输入图片说明](https://static.oschina.net/uploads/img/201904/19191836_eGkQ.png "在这里输入图片标题")
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
     import { duplicateCheck } from '@/api/api'
