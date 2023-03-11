@@ -4,7 +4,8 @@
 
 ## 后端技术架构
 
-*   基础框架：Spring Boot 2.3.5.RELEASE
+<details id=0>
+<summary><h2>Welcome</h2></summary>
 
 *   持久层框架：Mybatis-plus 3.4.1
 
@@ -94,7 +95,8 @@
 重复校验效果：
 ![输入图片说明](https://static.oschina.net/uploads/img/201904/19191836_eGkQ.png "在这里输入图片标题")
 
-1.引入排重接口,代码如下:
+<details id=5 open>
+<summary><h2>Step 5: Merge your pull request</h2></summary>
 
     import { duplicateCheck } from '@/api/api'
 
